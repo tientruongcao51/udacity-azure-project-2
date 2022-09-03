@@ -8,5 +8,5 @@
     "description": "Primary MongoDB Connection String"
   },
 
-  "AzureWebJobsStorage": ""
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=udacity2;AccountKey=GcPL3so9U/KEiWth9jmH23BvLtTW5SNwrY1q9WZZ2DRC7Og1JYAqej5oHc0TPrYBWvkIiozu6+Y7+ASt/iQCtg==;EndpointSuffix=core.windows.net"
 }
