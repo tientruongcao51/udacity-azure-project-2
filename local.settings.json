@@ -1,9 +1,12 @@
 {
   "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
+    "FUNCTIONS_WORKER_RUNTIME": "python"
   },
-  "ConnectionStrings": {},
+  "ConnectionStrings":  {
+    "connectionString": "mongodb://udacity2:Js1I2jc2OKvvtCOd8K2bshz55sMHkev183RAynjtB7tOSzGNVcP3Lhb1j8EwwQI1Oysmz4kyYNDeAlXPuFQtGQ==@udacity2.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@udacity2@",
+    "description": "Primary MongoDB Connection String"
+  },
 
   "AzureWebJobsStorage": ""
 }
