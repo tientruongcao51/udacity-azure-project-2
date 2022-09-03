@@ -1,7 +1,8 @@
 {
   "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "python"
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=udacity2;AccountKey=GcPL3so9U/KEiWth9jmH23BvLtTW5SNwrY1q9WZZ2DRC7Og1JYAqej5oHc0TPrYBWvkIiozu6+Y7+ASt/iQCtg==;EndpointSuffix=core.windows.net"
   },
   "ConnectionStrings":  {
     "connectionString": "mongodb://udacity2:Js1I2jc2OKvvtCOd8K2bshz55sMHkev183RAynjtB7tOSzGNVcP3Lhb1j8EwwQI1Oysmz4kyYNDeAlXPuFQtGQ==@udacity2.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@udacity2@",
